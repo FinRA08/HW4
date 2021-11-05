@@ -7,7 +7,7 @@ import javafx.scene.control.*;
 import java.util.Optional;
 
 public class HelloController {
-    private Game game;
+    private Game game;//класс
 
     private int step;
 
