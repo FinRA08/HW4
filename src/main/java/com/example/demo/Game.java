@@ -2,7 +2,7 @@ package com.example.demo;
 
 import java.util.Random;
 
-public class Game {
+public class Game {//класс с описанием условий игры
 
     public static class BullCowCont{
         private final int bulls;
